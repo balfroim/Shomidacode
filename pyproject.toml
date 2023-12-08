@@ -2,7 +2,11 @@
 name = "shomidacode"
 version = "0.1.0"
 description = ""
+<<<<<<< HEAD
 authors = []
+=======
+authors = ["Martin Balfroid <martin.balfroid@unamur.be>"]
+>>>>>>> beccecfb784e86a5a510af1e8f69e2610da451b8
 readme = "README.md"
 
 [tool.poetry.dependencies]
